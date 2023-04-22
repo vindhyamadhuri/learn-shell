@@ -1,3 +1,4 @@
 # learn-shell
 
-### we are learing about shell scripting
+### we are learning about shell scripting
+### Here are the topics
