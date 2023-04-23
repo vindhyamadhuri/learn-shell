@@ -4,4 +4,4 @@ uname -a
 
 yum list installed
 
-cat /var/log/messages
+echo "hello world"
